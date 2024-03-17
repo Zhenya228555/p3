@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+ body{ font-family: "Pacifico", cursive;}
+ 
+ header{color: #0BA5BE;
+    font-size: 40px;
+    background-color:#00718F;
+padding: 20px;}
+
+
+p{color:#576319;}
+
+body{margin-top: 0;
+    margin-left: 0;
+    margin-right: 0; }
+    h1{
+        font-size: 60px;
+        font-family: 30px;
+        text-align: center;
+    }
+
+    img{width: 200px;
+        height: 200px;
+    ;
+
+    }
+
+    article{text-align: center;
+    font-size: 20px;
+    background-color: beige;
+width: 300px;}
+
+section{display: flex;
+    justify-content: space-around;}
+
+    p{
+        font-size: 40px;
+        color: #013F4E;
+    }
+
+
+    .ter{
+       height: 100px; 
+    }
+
+    nav{display: flex;
+    justify-content: space-around;
+    color: #2F70AF;
+}
+nav a{color: white;
+text-decoration: none;}
+
+
+.img:hover{color: #2F70AF;}
+
+
+footer{
+    background-color: rgb(54, 190, 92);
+    color: white;
+    padding: 30px;
+    margin-top: 140px;
+}
+h2{color: white;
+text-align: center;}
+
+
+h1:hover{color: #2F70AF;}
+
+
+.ret{
+    width: 100px;
+    height: 100px;
+}
+
+
+.fr{
+    height: 30px;
+    width: 30px;
+}
+
+
+.nav1{width: 270px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+h6{color: rgb(0, 0, 0);}
+
+h6::before{content: url(https://i.postimg.cc/mrd2Sqv1/free-icon-font-instagram-6422200.png);}
+
+.hrt{
+    color: rgb(0, 0, 0);
+}
+
+.hrt::before{content: url(https://i.postimg.cc/nz5MY5yc/free-icon-font-envelope-3916631.png);}
+
+.tru{
+    color: white;
+}
+.tru::before{content: url(https://i.postimg.cc/1z8k4t4B/free-icon-font-phone-call-5070407-4.png);}
+
+.yti{
+    color: white;
+}
